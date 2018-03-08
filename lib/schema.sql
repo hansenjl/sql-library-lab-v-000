@@ -6,7 +6,7 @@ author_id INTEGER,
 subgenre_id INTEGER
 );
 
-CREATE TABLE subgenre
+CREATE TABLE subgenres
 (
 column_name1 data_type,
 column_name2 data_type,
