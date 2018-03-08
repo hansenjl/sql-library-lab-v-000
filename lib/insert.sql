@@ -1,3 +1,8 @@
 INSERT INTO series
-(column1, column2, column3,...)
-VALUES (value1, value2, value3,....)
+(title, author_id, subgenre_id)
+VALUES ("Harry Potter", 1, 1)
+
+
+title TEXT,
+author_id INTEGER,
+subgenre_id
