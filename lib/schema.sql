@@ -26,7 +26,7 @@ year INTEGER,
 series_id INTEGER
 );
 
-CREATE TABLE characters 
+CREATE TABLE characters.series_id
 (
 id INTEGER PRIMARY KEY,
 name TEXT,
