@@ -24,17 +24,17 @@ def select_name_and_series_subgenres_of_authors
   ;"
 end 
 
-author
-1. Rowling
-2. Shell Silverstein
-3. author 
+# author
+# 1. Rowling
+# 2. Shell Silverstein
+# 3. author 
 
 
-subgenres
-1. mystery
-2. sci-fi 
+# subgenres
+# 1. mystery
+# 2. sci-fi 
 
-series 
-1. Harry Potter  author_id: 1  subgenre_id: 1 mystery Rowling
-2. Nancy Drew author_id: 3 subgenre_id: 1   mystery author 
+# series 
+# 1. Harry Potter  author_id: 1  subgenre_id: 1 mystery Rowling
+# 2. Nancy Drew author_id: 3 subgenre_id: 1   mystery author 
 
