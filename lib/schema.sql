@@ -18,6 +18,14 @@ id INTEGER PRIMARY KEY,
 name TEXT
 )
 
+CREATE TABLE books
+(
+id INTEGER PRIMARY KEY,
+title TEXT,
+year INTEGER,
+...
+)
+
 CREATE TABLE table_name
 (
 id INTEGER PRIMARY KEY,
