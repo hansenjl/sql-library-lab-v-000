@@ -26,7 +26,7 @@ year INTEGER,
 series_id, INTEGER
 )
 
-CREATE TABLE table_name
+CREATE TABLE 
 (
 id INTEGER PRIMARY KEY,
 column_name2 data_type,
