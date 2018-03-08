@@ -9,6 +9,7 @@ end
 
 def select_value_and_count_of_most_prolific_species
   <<-SQL
-    SELECT species, 
+    SELECT species, COUNT(species)
+    FROM 
   SQL
 end
