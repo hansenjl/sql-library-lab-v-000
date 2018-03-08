@@ -18,7 +18,22 @@ def select_value_and_count_of_most_prolific_species
 end
 
 def select_name_and_series_subgenres_of_authors
-  "SELECT authors.name, subgenres.name FROM subgenres 
+  "SELECT authors.name, subgenres.name FROM series 
   LEFT OUTER JOIN series ON subgenres.id = series.id 
   ;"
 end 
+
+author
+1. Rowling
+2. Shell Silverstein
+3. author 
+
+
+subgenres
+1. mystery
+2. sci-fi 
+
+series 
+1. Harry Potter  author_id: 1  subgenre_id: 1
+2. Nancy Drew author_id: 3 subgenre_id: 1 
+
