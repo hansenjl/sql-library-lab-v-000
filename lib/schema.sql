@@ -1,7 +1,7 @@
 CREATE TABLE series
 (
 id INTEGER PRIMARY KEY,
-column_name2 data_type,
+title TEXT,
 column_name3 data_type,
 ...
 )
