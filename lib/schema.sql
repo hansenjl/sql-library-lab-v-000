@@ -39,6 +39,8 @@ author_id INTEGER
 1. species = human
 4. species = human
 2. species = magical
+5. species = magical
+6. species = magical
 3. species = bear
 
 
