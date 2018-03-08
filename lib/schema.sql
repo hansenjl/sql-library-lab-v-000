@@ -2,6 +2,6 @@ CREATE TABLE series
 (
 id INTEGER PRIMARY KEY,
 title TEXT,
-column_name3 data_type,
-...
+author_id INTEGER,
+author_id INTEGER
 )
