@@ -4,5 +4,5 @@ end
 
 
 def select_name_and_motto_of_char_with_longest_motto
-  "SELECT name, motto FROM characters ORBER BY LENGTH(motto) DESC LIMIT 1;"
+  "SELECT name, motto FROM characters ORBER BY LENGTH(motto) DESC LIMIT(1);"
 end 
