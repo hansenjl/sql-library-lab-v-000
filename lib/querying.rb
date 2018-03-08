@@ -24,6 +24,9 @@ def select_name_and_series_subgenres_of_authors
   ;"
 end 
 
+def 
+end 
+
 # author
 # 1. Rowling
 # 2. Shell Silverstein
