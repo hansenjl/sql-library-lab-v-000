@@ -36,6 +36,12 @@ series_id INTEGER,
 author_id INTEGER
 );
 
+1. species = human
+2. species = magical
+3. species = bear
+4. species = human
+
+
 CREATE TABLE character_books
 (
 id INTEGER PRIMARY KEY,
