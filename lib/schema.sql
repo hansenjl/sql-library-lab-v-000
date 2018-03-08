@@ -8,15 +8,13 @@ subgenre_id INTEGER
 
 CREATE TABLE subgenres
 (
-column_name1 data_type,
-column_name2 data_type,
-column_name3 data_type,
-...
+id INTEGER PRIMARY KEY,
+name TEXT
 )
 
 CREATE TABLE table_name
 (
-column_name1 data_type,
+id INTEGER PRIMARY KEY,
 column_name2 data_type,
 column_name3 data_type,
 ...
