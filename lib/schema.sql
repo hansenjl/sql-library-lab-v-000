@@ -36,7 +36,7 @@ series_id INTEGER,
 author_id INTEGER
 );
 
-CREATE TABLE 
+CREATE TABLE character_books
 (
 id INTEGER PRIMARY KEY,
 column_name2 data_type,
